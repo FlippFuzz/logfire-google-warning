@@ -1,6 +1,7 @@
 # logfire-google-warning
 
 Repo with minimal example to illustrate bug.
+This is for https://github.com/pydantic/logfire/issues/2557
 
 ```
 (.venv) C:\Shared\Projects\Personal\logfire-google-warning>set "GEMINI_API_KEY=XXXX"
